@@ -1,0 +1,53 @@
+{
+  "name": "exm",
+  "version": "0.1.0",
+  "description": "EXtension Manager.",
+  "main": "lib/exm.js",
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bin": {
+    "exm": "./bin/exm"
+  },
+  "dependencies": {
+    "fs-kit": "^0.5.0",
+    "semver": "^7.1.1",
+    "seventh": "^0.7.30",
+    "terminal-kit": "^1.32.3",
+    "utterminal": "^0.5.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/exm.git"
+  },
+  "keywords": [
+    "extension",
+    "manager"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/exm/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "EXM",
+    "years": [
+      2020
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
