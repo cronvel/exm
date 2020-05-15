@@ -2,7 +2,7 @@
   "name": "exm",
   "version": "0.1.0",
   "description": "EXtension Manager.",
-  "main": "lib/exm.js",
+  "main": "lib/Exm.js",
   "engines": {
     "node": ">=12.13.0"
   },

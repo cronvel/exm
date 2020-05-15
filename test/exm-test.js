@@ -28,37 +28,6 @@
 
 
 
-const fs = require( 'fs' ) ;
-const jspak = require( '..' ) ;
-//const string = require( 'string-kit' ) ;
-
-
-
-
-
-/* Helpers */
-
-
-
-/*
-function deb( title , v ) {
-	if ( arguments.length < 2 ) {
-		v = title ;
-		title = null ;
-	}
-
-	console.log(
-		( title ? title + ': ' : '' ) +
-		string.inspect( { style: 'color' , depth: 5 , proto: false } , v )
-	) ;
-}
-*/
-
-
-/* Tests */
-
-
-
 describe( "..." , () => {
 	it( "..." ) ;
 } ) ;
