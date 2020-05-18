@@ -13,6 +13,7 @@
     "exm": "./bin/exm"
   },
   "dependencies": {
+    "exec-kit": "^0.1.0",
     "fs-kit": "^0.5.0",
     "lazyness": "^1.2.0",
     "semver": "^7.1.1",
