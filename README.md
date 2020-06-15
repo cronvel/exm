@@ -4,5 +4,3 @@
 
 An extension/plugin manager for node.js.
 
-Early alpha.
-
