@@ -1,6 +1,6 @@
 {
   "name": "exm",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "EXtension Manager.",
   "main": "lib/Exm.js",
   "engines": {
@@ -16,9 +16,6 @@
     "exec-kit": "^0.1.0",
     "fs-kit": "^0.5.0",
     "lazyness": "^1.2.0",
-    "semver": "^7.1.1",
-    "seventh": "^0.7.30",
-    "terminal-kit": "^1.32.3",
     "utterminal": "^0.5.42"
   },
   "devDependencies": {},
