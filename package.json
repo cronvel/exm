@@ -1,6 +1,6 @@
 {
   "name": "exm",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "EXtension Manager.",
   "main": "lib/Exm.js",
   "engines": {
