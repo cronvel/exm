@@ -1,5 +1,5 @@
 /*
-	JsPak
+	EXM
 
 	Copyright (c) 2020 Cédric Ronvel
 
