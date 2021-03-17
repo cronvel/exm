@@ -1,6 +1,6 @@
 {
   "name": "exm",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "description": "EXtension Manager.",
   "main": "lib/Exm.js",
   "engines": {
@@ -16,9 +16,8 @@
     "exec-kit": "^0.1.0",
     "fs-kit": "^0.6.1",
     "lazyness": "^1.2.0",
-    "utterminal": "^0.5.44"
+    "utterminal": "^0.5.49"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tea-time -R dot"
   },
