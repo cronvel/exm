@@ -4,19 +4,15 @@
   "description": "EXtension Manager.",
   "main": "lib/Exm.js",
   "engines": {
-    "node": ">=12.13.0"
+    "node": ">=14.15.0"
   },
   "directories": {
     "test": "test"
   },
-  "bin": {
-    "exm": "./bin/exm"
-  },
   "dependencies": {
     "exec-kit": "^0.1.0",
     "fs-kit": "^0.6.1",
-    "lazyness": "^1.2.0",
-    "utterminal": "^0.5.49"
+    "lazyness": "^1.2.0"
   },
   "scripts": {
     "test": "tea-time -R dot"
